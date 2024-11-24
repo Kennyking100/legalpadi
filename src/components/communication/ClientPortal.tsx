@@ -6,7 +6,7 @@ const messages = [
     id: 1,
     sender: 'Sarah Wilson',
     role: 'Attorney',
-    content: 'Hello Mr. Smith, I've reviewed the latest documents from opposing counsel. We should discuss their settlement offer.',
+    content: `Hello Mr. Smith, I've reviewed the latest documents from opposing counsel. We should discuss their settlement offer.`,
     timestamp: '10:30 AM',
     isClient: false,
   },
